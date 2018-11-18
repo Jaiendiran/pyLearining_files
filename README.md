@@ -1,2 +1,2 @@
 # pyLearining_files
-An python file which has the fundamentals of python.
+A file which contains basics of python programming language.
